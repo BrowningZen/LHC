@@ -4,10 +4,6 @@
 ----
 Johnny Tong
 
-日期
-----
-1997/01/31
-
 Github Username
 ---------------
 BrowningZen
@@ -18,3 +14,9 @@ BrowningZen
 - Girlfriend
 - Science
 - Travelling
+
+我最喜歡的程式語言
+---------------
+- Python
+- MATLAB
+- R
